@@ -1,4 +1,4 @@
-#SBD
+#SBD 10/07/2025
 # Fonction de clacul de  Within Inertie pour CHA
 # ChatGPT utilisé pour certaines syntaxes
 
